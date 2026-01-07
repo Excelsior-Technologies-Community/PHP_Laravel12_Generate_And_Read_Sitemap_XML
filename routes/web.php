@@ -9,5 +9,4 @@ Route::get('/', function () {
 });
 
 
-
 Route::get('/sitemap.xml', [SitemapController::class, 'index']);
