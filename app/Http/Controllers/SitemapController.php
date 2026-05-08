@@ -5,15 +5,12 @@ namespace App\Http\Controllers;
 use App\Models\Post;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Cache;
+use Illuminate\Support\Facades\Http;
 
 class SitemapController extends Controller
 {
-    /**
-     * Display dynamic sitemap (with caching)
-     */
     public function index()
     {
-        // Cache posts for 60 minutes
         $posts = Cache::remember('sitemap_posts', 60, function () {
             return Post::orderBy('updated_at', 'DESC')->get();
         });
@@ -22,28 +19,25 @@ class SitemapController extends Controller
                          ->header('Content-Type', 'application/xml');
     }
 
-    /**
-     * Generate static sitemap.xml file in public folder
-     */
     public function generateFile()
     {
         $posts = Post::latest()->get();
 
-        // Render XML view
         $xml = view('sitemap.index', compact('posts'))->render();
 
-        // Save file in public folder
         file_put_contents(public_path('sitemap.xml'), $xml);
+
+        $sitemapUrl = url('/sitemap.xml');
+        Http::get("https://www.google.com/ping?sitemap={$sitemapUrl}");
+
+        Cache::forget('sitemap_posts');
 
         return response()->json([
             'status' => true,
-            'message' => 'Sitemap file generated successfully!'
+            'message' => 'Sitemap file generated and Google pinged successfully!'
         ]);
     }
 
-    /**
-     * Clear sitemap cache manually
-     */
     public function clearCache()
     {
         Cache::forget('sitemap_posts');

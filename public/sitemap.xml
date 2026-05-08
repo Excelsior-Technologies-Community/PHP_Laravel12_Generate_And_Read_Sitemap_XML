@@ -2,69 +2,249 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://127.0.0.1:8000</loc>
-        <lastmod>2026-04-20T12:22:04+00:00</lastmod>
+        <loc>http://localhost</loc>
+        <lastmod>2026-05-08T10:01:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
             <url>
-            <loc>http://127.0.0.1:8000/post/fugit-quia-qui-nihil-aut-qui-hic</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/et-deleniti-expedita-omnis-voluptas-occaecati</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/vel-aut-pariatur-praesentium-ratione</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/aliquam-non-repellendus-quae-non-deserunt</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/consectetur-autem-aut-consectetur</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/nobis-quisquam-et-provident-autem-ratione-odio-ducimus</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/assumenda-nisi-aut-molestias-quia-tempora-et-adipisci</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/aspernatur-velit-recusandae-velit-praesentium-ducimus-officiis</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/aut-deleniti-ea-ut-repudiandae-illum-natus</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/eius-voluptatum-maxime-molestias-numquam-quidem-qui</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/numquam-explicabo-sit-sed-amet-reiciendis</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/voluptas-iure-et-est-sunt-praesentium-velit-molestias</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/corrupti-soluta-aspernatur-maxime</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/dolor-est-dignissimos-consequuntur-et-sunt-minima-ut</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/voluptas-in-consequuntur-ex-ex</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/necessitatibus-eius-tempore-vero</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/optio-neque-dolorem-nisi-eveniet-occaecati</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/quia-perferendis-et-enim-itaque-molestias</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
             <url>
-            <loc>http://127.0.0.1:8000/post/quae-dolor-est-perspiciatis-accusantium-expedita-quisquam</loc>
-            <lastmod>2026-04-20T12:18:14+00:00</lastmod>
+            <loc>http://localhost/post/necessitatibus-odit-qui-odit-quia-voluptatibus-qui</loc>
+            <lastmod>2026-05-08T09:42:31+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/dignissimos-ut-fuga-sunt-quod-eos</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/cupiditate-sit-accusantium-illo-et-est-sunt</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/sed-in-corporis-reiciendis-dignissimos-facilis</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/aperiam-ipsam-debitis-ullam-molestias-et-veniam</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/et-magnam-praesentium-facilis-quidem-numquam-id-earum</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/fuga-fugit-dolores-qui</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/tempora-ut-et-error-qui-aliquam-eius-voluptatem-enim</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/nihil-sapiente-nemo-consequatur-officiis-excepturi</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/quia-neque-sint-nesciunt-libero-magnam-ducimus-odit</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/assumenda-optio-sit-voluptas-quae</loc>
+            <lastmod>2026-05-08T09:42:30+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/qui-sit-dicta-maxime-soluta</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/repellat-deleniti-qui-et-et</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/non-reiciendis-dolorem-voluptatem-cumque-qui</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/consequatur-pariatur-odio-et-odit</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/perspiciatis-possimus-maiores-vel-laboriosam-cupiditate-consequuntur-molestiae-sapiente</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/optio-est-quia-voluptatibus</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/odio-omnis-numquam-culpa-et</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/aut-et-voluptatem-earum-commodi-architecto</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/ducimus-omnis-reprehenderit-similique-rem-voluptatem-consequuntur-quia-impedit</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/commodi-laudantium-esse-aut-aspernatur</loc>
+            <lastmod>2026-05-08T09:42:28+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/totam-quae-odio-dolores-officiis-aliquam-est-voluptas</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/dolore-harum-non-beatae-unde</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/provident-eaque-eius-quia-et-officiis-cupiditate</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/aspernatur-qui-pariatur-magnam-similique</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/unde-expedita-quod-tenetur-eligendi</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/iusto-at-nesciunt-optio-quis-fugit</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/eum-minima-veniam-odit-numquam-molestiae-quia</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/excepturi-nihil-corporis-in-reiciendis-sit-aut-in-eveniet</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/animi-totam-enim-voluptatum-in</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+        </url>
+            <url>
+            <loc>http://localhost/post/cupiditate-exercitationem-autem-debitis-et-sequi-fugiat</loc>
+            <lastmod>2026-05-08T09:42:26+00:00</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
         </url>
